@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/delpfy.github.io/static/css/main.2b8309a6.css",
-    "main.js": "/delpfy.github.io/static/js/main.810179a1.js",
-    "static/media/ProximaNova-Regular.eot": "/delpfy.github.io/static/media/ProximaNova-Regular.d97f8f32c098b28c3ab0.eot",
-    "static/media/ProximaNova-Regular.ttf": "/delpfy.github.io/static/media/ProximaNova-Regular.b078618b41b9b6629ea0.ttf",
-    "static/media/ProximaNova-Bold.eot": "/delpfy.github.io/static/media/ProximaNova-Bold.787088b281e017f8c449.eot",
-    "static/media/ProximaNova-Extrabld.eot": "/delpfy.github.io/static/media/ProximaNova-Extrabld.b9fcd9fbe4d0b5e73cbd.eot",
-    "static/media/ProximaNova-Bold.ttf": "/delpfy.github.io/static/media/ProximaNova-Bold.7722451a8c88b6100185.ttf",
-    "static/media/ProximaNova-Extrabld.ttf": "/delpfy.github.io/static/media/ProximaNova-Extrabld.026a945d32b05c6c8710.ttf",
-    "static/media/ProximaNova-Black.eot": "/delpfy.github.io/static/media/ProximaNova-Black.9a114cea74aac9cc06cc.eot",
-    "static/media/ProximaNova-Black.ttf": "/delpfy.github.io/static/media/ProximaNova-Black.5335144c30bdc79a2d6d.ttf",
-    "static/media/ProximaNova-Regular.woff": "/delpfy.github.io/static/media/ProximaNova-Regular.99528640efded3e12591.woff",
-    "static/media/ProximaNova-Bold.woff": "/delpfy.github.io/static/media/ProximaNova-Bold.1f267da183b3d4fe3d5b.woff",
-    "static/media/ProximaNova-Extrabld.woff": "/delpfy.github.io/static/media/ProximaNova-Extrabld.64f095e95e4018946cb1.woff",
-    "static/media/ProximaNova-Black.woff": "/delpfy.github.io/static/media/ProximaNova-Black.131eab64b8a971a4fc73.woff",
-    "static/media/empty-cart.png": "/delpfy.github.io/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "static/media/pizza-logo.svg": "/delpfy.github.io/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
-    "index.html": "/delpfy.github.io/index.html",
-    "main.2b8309a6.css.map": "/delpfy.github.io/static/css/main.2b8309a6.css.map",
-    "main.810179a1.js.map": "/delpfy.github.io/static/js/main.810179a1.js.map"
+    "main.css": "/pizza_app/static/css/main.d43e9d49.css",
+    "main.js": "/pizza_app/static/js/main.c04c7778.js",
+    "static/media/ProximaNova-Regular.eot": "/pizza_app/static/media/ProximaNova-Regular.d97f8f32c098b28c3ab0.eot",
+    "static/media/ProximaNova-Regular.ttf": "/pizza_app/static/media/ProximaNova-Regular.b078618b41b9b6629ea0.ttf",
+    "static/media/ProximaNova-Bold.eot": "/pizza_app/static/media/ProximaNova-Bold.787088b281e017f8c449.eot",
+    "static/media/ProximaNova-Extrabld.eot": "/pizza_app/static/media/ProximaNova-Extrabld.b9fcd9fbe4d0b5e73cbd.eot",
+    "static/media/ProximaNova-Bold.ttf": "/pizza_app/static/media/ProximaNova-Bold.7722451a8c88b6100185.ttf",
+    "static/media/ProximaNova-Extrabld.ttf": "/pizza_app/static/media/ProximaNova-Extrabld.026a945d32b05c6c8710.ttf",
+    "static/media/ProximaNova-Black.eot": "/pizza_app/static/media/ProximaNova-Black.9a114cea74aac9cc06cc.eot",
+    "static/media/ProximaNova-Black.ttf": "/pizza_app/static/media/ProximaNova-Black.5335144c30bdc79a2d6d.ttf",
+    "static/media/ProximaNova-Regular.woff": "/pizza_app/static/media/ProximaNova-Regular.99528640efded3e12591.woff",
+    "static/media/ProximaNova-Bold.woff": "/pizza_app/static/media/ProximaNova-Bold.1f267da183b3d4fe3d5b.woff",
+    "static/media/ProximaNova-Extrabld.woff": "/pizza_app/static/media/ProximaNova-Extrabld.64f095e95e4018946cb1.woff",
+    "static/media/ProximaNova-Black.woff": "/pizza_app/static/media/ProximaNova-Black.131eab64b8a971a4fc73.woff",
+    "static/media/empty-cart.png": "/pizza_app/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/pizza_app/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/pizza_app/index.html",
+    "main.d43e9d49.css.map": "/pizza_app/static/css/main.d43e9d49.css.map",
+    "main.c04c7778.js.map": "/pizza_app/static/js/main.c04c7778.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b8309a6.css",
-    "static/js/main.810179a1.js"
+    "static/css/main.d43e9d49.css",
+    "static/js/main.c04c7778.js"
   ]
 }

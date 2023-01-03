@@ -6,7 +6,6 @@ import Search from "../../Search";
 import { useSelector } from "react-redux";
 import { selectCart } from "../../redux/cart/selectors";
 
-
 function Header() {
   const { items, totalPrice } = useSelector(selectCart);
   const location = useLocation();

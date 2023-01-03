@@ -3,20 +3,26 @@
 .header {
   border-bottom: 1px solid $gray-line;
   padding: 40px 0;
-  
-  
+  background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 1;
   @media (max-width: 736px){
     .container{
       flex-direction: column;
     }
     .header__cart{
-      margin-top: 40px;
+      padding-right: 40px;
     }
   }
+
+
   .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
+
+
   }
 
   &__logo {

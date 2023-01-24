@@ -16,9 +16,9 @@ function App() {
       <Header />
       <div className="content">
         <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/cart" element={<Cart />} />
-          <Route path="/pizza/:id" element={<FullPizza />} />
+          <Route path="/reactPizza" element={<HomePage />} />
+          <Route path="/reactPizza/cart" element={<Cart />} />
+          <Route path="/reactPizza/pizza/:id" element={<FullPizza />} />
           <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </div>

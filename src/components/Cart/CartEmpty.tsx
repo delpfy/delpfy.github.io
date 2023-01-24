@@ -10,7 +10,7 @@ const CartEmpty: React.FC = () => (
         Для того, щоб додати піцу до кошика, додайте її на головній сторінці!
       </p>
       <img src={emptyCart} alt="emptyCart" />
-      <Link to="/">
+      <Link to="/reactPizza">
         <a className="button button-black">
           <span>Повернутися до головної</span>
         </a>

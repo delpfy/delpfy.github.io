@@ -1,15 +1,8 @@
 import React from "react";
-
-// import qs from "qs";
-
-// import { useNavigate } from "react-router-dom";
 import { useSelector } from "react-redux";
 import { Catigories, SortPopUp, Skeleton, PizzaBlock } from "../components";
 import Pagination from "../Pagination";
 import {setCategoryId,setCurrentPage} from "../redux/filter/slice";
-
-// import { options } from "../components/Main/Sort";
-
 import {FetchPizzas} from "../redux/pizza/asyncActions";
 import { useAppDispatch } from "../redux/store";
 import { selectFilter } from "../redux/filter/selectors";

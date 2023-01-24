@@ -105,7 +105,7 @@ const totalCount = items.reduce((sum: number, item: any)=> sum + item.count, 0)
             </span>
           </div>
           <div className="cart__bottom-buttons">
-            <Link to = "/" ><div className="button button--outline button--add go-back-btn">
+            <Link to = "/reactPizza" ><div className="button button--outline button--add go-back-btn">
               <svg
                 width="8"
                 height="14"

@@ -1,2 +1,0 @@
-# reactPizza
-First ever project
